@@ -1,5 +1,11 @@
 # browsermesh-primitives
 
+> **This repo has moved.** `browsermesh-primitives` is now published as
+> [`@johnhenry/browsermesh-primitives`](https://www.npmjs.com/package/@johnhenry/browsermesh-primitives) from the
+> [johnhenry/browsermesh](https://github.com/johnhenry/browsermesh) monorepo.
+> This repo is archived; install the new package instead.
+
+
 Shared primitives for browser mesh networking -- wire format, identity (Ed25519), CRDTs, capabilities, trust model, and ACL engine. Zero dependencies, pure ES modules, runs in browsers and Node.js.
 
 ## Install
